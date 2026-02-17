@@ -1,6 +1,6 @@
 from fastapi import FastAPI, HTTPException, status
 from pydantic import BaseModel
-from database import get_all_tasks, add_task, delete_task, update_task
+from db_operations import *
 
 app = FastAPI()
 
