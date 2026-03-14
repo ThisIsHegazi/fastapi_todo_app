@@ -16,5 +16,3 @@ This repository contains a FastAPI application that provides a complete backend 
 - RESTful API endpoints for todo management
 - No frontend dependencies
 - Pure backend implementation
-
-For more information, visit the repository on [GitHub](https://github.com/ThisIsHegazi/fastapi_todo_app).
